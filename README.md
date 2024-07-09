@@ -1,2 +1,3 @@
 # guu-code
-description
+description-1st github
+Author-amit gupta
